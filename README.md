@@ -26,7 +26,7 @@ JavaScript: Interactive features like project slideshow and color mode toggle.
 
 ## Folder Structure
 
-'''portfolio-website/
+''' portfolio-website/
 ├── index.html
 ├── css/
 │   ├── style.css
@@ -48,7 +48,8 @@ JavaScript: Interactive features like project slideshow and color mode toggle.
 │   │   ├── webdoodler2.png
 │   │   ├── trackspend.png
 │   │   └── sign.png
-└── README.md'''
+└── README.md 
+'''
 
 
 
